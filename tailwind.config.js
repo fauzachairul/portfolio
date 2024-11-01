@@ -1,14 +1,13 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: ["index.html"],
-  darkMode: 'class',
+  darkMode: "class",
   theme: {
     extend: {
       fontFamily: {
-        'inter' : ['Inter']
-      }
+        inter: ["Inter"],
+      },
     },
   },
   plugins: [],
-}
-
+};
