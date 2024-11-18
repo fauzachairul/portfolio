@@ -8,10 +8,10 @@ humburger.addEventListener('click', function () {
 });
 
 // const menu = document.querySelector('#humburger');
-// document.activeElement('click', function(e){
-//     if(!menu.contains(e.target) && !navMenu.contains(e.target)) {
-//         navMenu.classList.remove('menu-active');
-//     }
+// document.activeElement('click', function (e) {
+//   if (!menu.contains(e.target) && !navMenu.contains(e.target)) {
+//     navMenu.classList.remove('menu-active');
+//   }
 // });
 
 //navActive
